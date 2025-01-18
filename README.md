@@ -11,7 +11,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Github](https://github.com/abigailelis/git-test/tree/main/blog-preview-card)
+- Solution URL: [Github](https://github.com/abigailelis/blog-preview-card-challenge)
 - Live Site URL: [Vercel](https://blog-preview-card-challenge-abigail.vercel.app/)
 
 ### Built with
